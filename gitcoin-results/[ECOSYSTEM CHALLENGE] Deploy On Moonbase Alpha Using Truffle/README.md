@@ -10,6 +10,6 @@
         <img src="./[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle_1.PNG" alt="Awesome-Burgerking"/>
     </a>
     <a>
-        <img src="./[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle_1.PNG" alt="Awesome-Burgerking"/>
+        <img src="./[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle_2.PNG" alt="Awesome-Burgerking"/>
     </a>
 </p>
