@@ -1,0 +1,12 @@
+/substrate-node-template/target/release/deps/jsonrpc_ws_server-16a70adfd94c87a4.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server_builder.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/session.rs
+
+/substrate-node-template/target/release/deps/libjsonrpc_ws_server-16a70adfd94c87a4.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server_builder.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/session.rs
+
+/substrate-node-template/target/release/deps/jsonrpc_ws_server-16a70adfd94c87a4.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server_builder.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/session.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/error.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/metadata.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/server_builder.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ws-server-15.0.0/src/session.rs:

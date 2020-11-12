@@ -1,0 +1,11 @@
+/substrate-node-template/target/debug/wbuild-runner/node-template-runtime5682408938209815743/target/x86_64-unknown-linux-gnu/debug/deps/cargo_metadata-8829eadd231ee14e.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs
+
+/substrate-node-template/target/debug/wbuild-runner/node-template-runtime5682408938209815743/target/x86_64-unknown-linux-gnu/debug/deps/libcargo_metadata-8829eadd231ee14e.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs
+
+/substrate-node-template/target/debug/wbuild-runner/node-template-runtime5682408938209815743/target/x86_64-unknown-linux-gnu/debug/deps/cargo_metadata-8829eadd231ee14e.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/dependency.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/diagnostic.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/errors.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.10.0/src/messages.rs:

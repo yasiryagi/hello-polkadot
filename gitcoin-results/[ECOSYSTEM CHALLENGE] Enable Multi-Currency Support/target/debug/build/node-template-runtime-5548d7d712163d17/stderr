@@ -1,0 +1,123 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.04s
+     Running `/substrate-node-template/target/debug/wbuild-runner/node-template-runtime5682408938209815743/target/x86_64-unknown-linux-gnu/debug/wasm-build-runner-impl`
+[0m[0m[1m[32m   Compiling[0m node-template-runtime v2.0.0 (/substrate-node-template/runtime)
+[0m[1m[33mwarning[0m[0m[1m: variant `yaz` should have an upper camel case name[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/lib.rs:81:5[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m81[0m[0m [0m[0m[1m[38;5;12m| [0m[0m    yaz,[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[33m^^^[0m[0m [0m[0m[1m[33mhelp: convert the identifier to upper camel case (notice the capitalization): `Yaz`[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(non_camel_case_types)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: unused import: `time::*`[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/lib.rs:112:17[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m112[0m[0m [0m[0m[1m[38;5;12m| [0m[0muse constants::{time::*, currency::*};[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m                [0m[0m[1m[33m^^^^^^^[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m    [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_imports)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: unused import: `primitives as node_primitives`[0m
+[0m   [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/lib.rs:115:5[0m
+[0m    [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m115[0m[0m [0m[0m[1m[38;5;12m| [0m[0muse primitives as node_primitives;[0m
+[0m    [0m[0m[1m[38;5;12m| [0m[0m    [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `BlockNumber`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:29:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m29[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type BlockNumber = u32;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(dead_code)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Signature`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:32:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m32[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Signature = MultiSignature;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `AccountId`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:36:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m36[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type AccountId = <<Signature as Verify>::Signer as IdentifyAccount>::AccountId;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `AccountIndex`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:39:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m39[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type AccountIndex = u32;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Balance`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:42:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m42[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Balance = u128;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Moment`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:45:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m45[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Moment = u64;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Index`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:48:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m48[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Index = u32;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Hash`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:51:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m51[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Hash = sp_core::H256;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Timestamp`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:56:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m56[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Timestamp = u64;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `DigestItem`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:59:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m59[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type DigestItem = generic::DigestItem<Hash>;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Header`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:61:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m61[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Header = generic::Header<BlockNumber, BlakeTwo256>;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `Block`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:63:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m63[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type Block = generic::Block<Header, OpaqueExtrinsic>;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: type alias is never used: `BlockId`[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:65:1[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m65[0m[0m [0m[0m[1m[38;5;12m| [0m[0mpub type BlockId = generic::BlockId<Block>;[0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m[1m[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: unused attribute[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:22:35[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#![cfg_attr(not(feature = "std"), no_std)][0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                                  [0m[0m[1m[33m^^^^^^[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m   [0m[0m[1m[38;5;12m= [0m[0m[1mnote[0m[0m: `#[warn(unused_attributes)]` on by default[0m
+
+[0m[1m[33mwarning[0m[0m[1m: crate-level attribute should be in the root module[0m
+[0m  [0m[0m[1m[38;5;12m--> [0m[0m/substrate-node-template/runtime/src/primitives.rs:22:35[0m
+[0m   [0m[0m[1m[38;5;12m|[0m
+[0m[1m[38;5;12m22[0m[0m [0m[0m[1m[38;5;12m| [0m[0m#![cfg_attr(not(feature = "std"), no_std)][0m
+[0m   [0m[0m[1m[38;5;12m| [0m[0m                                  [0m[0m[1m[33m^^^^^^[0m
+
+[0m[1m[33mwarning[0m[0m[1m: 18 warnings emitted[0m
+
+[0m[0m[1m[32m   Compiling[0m node-template-runtime-wasm v1.0.0 (/substrate-node-template/target/debug/wbuild/node-template-runtime)
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 12.96s
