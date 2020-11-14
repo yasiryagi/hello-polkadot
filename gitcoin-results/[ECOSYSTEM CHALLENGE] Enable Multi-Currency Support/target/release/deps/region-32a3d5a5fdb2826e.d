@@ -1,0 +1,14 @@
+/substrate-node-template/target/release/deps/region-32a3d5a5fdb2826e.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/linux.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs
+
+/substrate-node-template/target/release/deps/libregion-32a3d5a5fdb2826e.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/linux.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs
+
+/substrate-node-template/target/release/deps/region-32a3d5a5fdb2826e.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/linux.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/error.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/lock.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/unix.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/os/linux.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/page.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/region-2.2.0/src/protect.rs:

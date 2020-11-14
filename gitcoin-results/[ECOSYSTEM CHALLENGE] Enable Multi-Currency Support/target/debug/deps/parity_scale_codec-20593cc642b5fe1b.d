@@ -1,0 +1,13 @@
+/substrate-node-template/target/debug/deps/parity_scale_codec-20593cc642b5fe1b.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/codec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/compact.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/joiner.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/keyedvec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/decode_all.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/depth_limit.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/encode_append.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/encode_like.rs
+
+/substrate-node-template/target/debug/deps/parity_scale_codec-20593cc642b5fe1b.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/codec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/compact.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/joiner.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/keyedvec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/decode_all.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/depth_limit.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/encode_append.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/encode_like.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/codec.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/compact.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/joiner.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/keyedvec.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/decode_all.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/depth_limit.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/encode_append.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-1.3.4/src/encode_like.rs:

@@ -1,0 +1,1 @@
+{"rustc":66165631676752942,"features":"[]","target":8881003671063509323,"profile":10803726696109476711,"path":3204869550038756745,"deps":[[4807782445622397543,"toml",false,15916439619634760252]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/proc-macro-crate-3dafc321e8b4585b/dep-lib-proc-macro-crate"}}],"rustflags":[],"metadata":4875023412952309093,"config":0}

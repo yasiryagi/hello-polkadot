@@ -1,0 +1,10 @@
+/substrate-node-template/target/release/deps/jsonrpc_client_transports-7e205a86ef742e68.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs
+
+/substrate-node-template/target/release/deps/libjsonrpc_client_transports-7e205a86ef742e68.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs
+
+/substrate-node-template/target/release/deps/jsonrpc_client_transports-7e205a86ef742e68.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/duplex.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-15.0.0/src/transports/local.rs:
